@@ -2,7 +2,7 @@
 
 #### Han Tian, Hankz Hankui Zhuo
 
-In this repository we provide open source implementations of paper2vec proposed in the literature. Our implementations learns the paper node embeddings from the paper citation network. 
+In this repository we provide open source implementations of paper2vec proposed in the literature. Our implementations learns the paper node embeddings from the paper citation network. (https://arxiv.org/abs/1703.06587)
 
 #### Input File Formats
 
